@@ -1,7 +1,6 @@
 
 /*
 Mohamed Ahmed : 20190415
-Mohamed Atef  : 20190454
 */
 import java.util.ArrayList;
 import java.util.Scanner;
